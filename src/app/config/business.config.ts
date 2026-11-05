@@ -83,7 +83,7 @@ export const businessConfig: BusinessConfig = {
 
   instagramUrl: '',
 
-  siteUrl: '',
+  siteUrl: 'https://home-pet-boarding.onrender.com',
 
   areasServed: ['Boduppal', 'Hyderabad'],
 

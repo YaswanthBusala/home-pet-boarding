@@ -65,7 +65,7 @@ After changing `siteUrl`, also update:
 
 - `public/sitemap.xml`: replace `https://YOUR-DOMAIN/`
 - `public/robots.txt`: uncomment the `Sitemap:` line and set your domain
-- `src/index.html`: the static title, description and Open Graph tags, if you change the wording (they're there for crawlers that don't run JavaScript)
+- `src/index.html`: the static canonical link, `og:url`, title, description and Open Graph tags (they're there for crawlers that don't run JavaScript)
 
 ## 5. Replace the sample images
 
